@@ -1,0 +1,8 @@
+.DS_Store
+.cache
+compile_commands.json
+
+bin
+lib
+
+node_modules
